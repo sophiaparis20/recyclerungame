@@ -1,4 +1,4 @@
- 
+A game called “RecycleRun”, in the game the mission is simple, collect the littered rubbish scattered around the maze, and when you make it to the end you will be quizzed on which rubbish goes where. The users must watch out for obstacles, like the rubbish monster and time constraints.  
 
 
 > Open this page at [https://j-ghee.github.io/technica2023-recycle-run/](https://j-ghee.github.io/technica2023-recycle-run/)
